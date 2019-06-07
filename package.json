@@ -1,0 +1,22 @@
+{
+  "name": "stage3",
+  "version": "1.0.0",
+  "description": "Sign up form for zaio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelethungalo.github.io/SignUpform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lelethungalo.github.io/SignUpform/issues"
+  },
+  "homepage": "https://github.com/lelethungalo.github.io/SignUpform",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
